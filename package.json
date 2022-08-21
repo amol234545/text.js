@@ -1,0 +1,24 @@
+{
+  "name": "text.js",
+  "version": "1.0.0",
+  "description": "A text file loader and compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "amol234545",
+  "license": "MIT",
+  "dependencies": {
+    "markdown-to-txt": "^2.0.1",
+    "txt-reader": "^1.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amol234545/text.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amol234545/text.js/issues"
+  },
+  "homepage": "https://github.com/amol234545/text.js#readme"
+}
