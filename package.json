@@ -8,6 +8,11 @@
   },
   "keywords": [],
   "author": "amol234545",
+  "license": "MIT",
+  "dependencies": {
+    "markdown-to-txt": "^2.0.1",
+    "txt-reader": "^1.4.5"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/amol234545/text.js.git"
